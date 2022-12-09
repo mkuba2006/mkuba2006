@@ -17,9 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
 </div>
 
-<div align="center" dispaly="flex" clear="both"> 
+<div align="center" dispaly="flex"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
-<img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
 </div>
 <div align="center" dispaly="flex"> 
 <img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
