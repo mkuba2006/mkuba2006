@@ -1,5 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=dkjcdvsyjz6ciuzj2xfl5tp6c)]([https://open.spotify.com/user/dkjcdvsyjz6ciuzj2xfl5tp6c]
+<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)</center>
 
 
 
