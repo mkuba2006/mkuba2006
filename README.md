@@ -1,4 +1,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+
+
+
 
 <!--
 **mkuba2006/mkuba2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
