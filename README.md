@@ -18,7 +18,10 @@
 </div>
 
 <div align="center" dispaly="flex"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
+<img align="center" width="100%" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
+</div>
+<div align="center" dispaly="flex"> 
 <img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
 </div>
 
