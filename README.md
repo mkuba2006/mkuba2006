@@ -25,7 +25,7 @@
 </div>
 
 
-//![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dkjcdvsyjz6ciuzj2xfl5tp6c)
+
 
 
 
