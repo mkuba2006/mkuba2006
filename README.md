@@ -19,19 +19,10 @@
 
 <div align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
 </div>
 
 
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkuba2006)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dkjcdvsyjz6ciuzj2xfl5tp6c)
 
 
