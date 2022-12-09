@@ -1,6 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-:)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dkjcdvsyjz6ciuzj2xfl5tp6c)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dkjcdvsyjz6ciuzj2xfl5tp6c&width={100%})
 
 
 
