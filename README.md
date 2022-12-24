@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
 </div>
 
-<div align="center" margin="10px"> 
+<div align="center" margin="11px"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
 </div>
 <div align="center" margin="11px"> 
