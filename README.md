@@ -20,7 +20,7 @@
 <div align="center" margin="10px"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact"/>
 </div>
-<div align="center" margin="10px"> 
+<div align="center" margin="11px"> 
 <img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
 </div>
 
