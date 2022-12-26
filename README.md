@@ -18,10 +18,10 @@
 </div>
 
 <div align="center" margin="11px"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact" width="40"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&layout=compact" width="200" height="200"/>
 </div>
 <div align="center" margin="11px"> 
-<img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006"/>
+<img align="center" clear="both" src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006" width="200" height="200"/>
 </div>
 
 
