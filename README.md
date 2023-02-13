@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
 </div>
 <hr>
-<div align="center"> 
+<div align="center" justigy-content:center> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&theme=dark&layout=compact" width="350px" height="200px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006&theme=dark&show_icons=true" width="350px" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mkuba2006&show_icons=true&theme=dark" width="350px" height="200px"/>
