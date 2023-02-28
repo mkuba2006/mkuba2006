@@ -16,24 +16,8 @@
     <img width="150px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100042699441638">
-    <img width="165px" src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+    <img width="165px" src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge" />
   </a> 
  <a href="https://www.linkedin.com/in/jakub-myrta-7525a6261/">
-  <img width="160px"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img width="160px"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="50px"/>
  </a>
- 
- 
- 
- 
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<hr>
-
-<br />
-
-<div align="center" > 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkuba2006&theme=dark&layout=compact"  height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkuba2006&theme=dark&show_icons=true" width="350px" height="200px"/>
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?user=mkuba2006?style=for-the-badge&logo=Facebook&logoColor=white" width="350px" height="200px"/>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?user=mkuba2006?style=for-the-badge&logo=linkedin&logoColor=white" width="350px" height="200px" >
-</div> -->
