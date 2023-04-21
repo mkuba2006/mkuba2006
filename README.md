@@ -1,6 +1,6 @@
 # Hi I'm mkuba2006 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" height="38px" alt="hi">
 
-### <details><summary>About Me</summary><br />I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly JS and soon Vue</details>
+### <details><summary>About Me</summary><br />I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly JS and some React</details>
 <hr>
  <details><summary>My Technologies</summary><br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 </details> 
