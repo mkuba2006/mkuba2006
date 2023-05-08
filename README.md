@@ -30,7 +30,6 @@
   </a> 
  <a href="https://www.linkedin.com/in/jakub-myrta-7525a6261/">
   <img width="150px"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
-                                                                                                                               <a><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/mkuba2006/mkuba2006?style=for-the-badge"></a>
+ </a><a><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/mkuba2006/mkuba2006?style=for-the-badge"></a>
 
                                                           
