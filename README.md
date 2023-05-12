@@ -2,11 +2,11 @@
 
 
 <details>
-  <summary>About Me</summary>
+  <summary>ℹ About Me</summary>
 <p>I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly JS and some React</p>
 </details>
  <details>
-  <summary>My Technologies</summary>
+  <summary>👨🏻‍💻 My Technologies</summary>
   <br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  /> 
@@ -15,7 +15,7 @@
 </details> 
 
  <details>
- <summary>My Stats</summary>
+ <summary>📊 My Stats</summary>
  <img id="as" src="https://github-readme-stats.vercel.app/api?username=mkuba2006&show_icons=true&theme=github_dark&hide_border=true&text_color=#0a0101" width="400px" height="200px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkuba2006&layout=compact&theme=github_dark&hide_border=true" width="320px" height=200px"/></details>
 
