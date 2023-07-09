@@ -31,6 +31,14 @@
   </a> 
  <a href="https://www.linkedin.com/in/jakub-myrta-7525a6261/">
   <img width="150px"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a><a><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/mkuba2006/mkuba2006?style=for-the-badge"></a>
+ </a>
 
-                                                          
+<br>                                               
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mkuba2006&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=98383163)
