@@ -3,7 +3,7 @@
 <h4>13.09.2023- I hosted my own :arrow_right:<a href="https://jmdeveloper.pl/">website</a>:arrow_left:</h4>
 <details>
   <summary>ℹ About Me</summary>
-<p>I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly JS and some React</p>
+<p>I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly React</p>
 </details>
  <details>
   <summary>👨🏻‍💻 My Technologies</summary>
