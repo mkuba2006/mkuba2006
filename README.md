@@ -1,6 +1,6 @@
 #  Hi I'm mkuba2006 <img  src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" height="38px" alt="hi">
 
-<img src="https://github.com/mkuba2006/github-images/blob/main/gitimg2.png?raw=true"/>
+
 <h4>13.09.2023- I hosted my own :arrow_right:<a href="https://jmdeveloper.pl/">website</a>:arrow_left:</h4>
 <details>
   <summary>ℹ About Me</summary>
