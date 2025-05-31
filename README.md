@@ -1,8 +1,7 @@
 #  Hi I'm mkuba2006 <img  src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" height="38px" alt="hi">
 
 
-<h4>13.09.2023- I hosted my own :arrow_right:<a href="https://jmdeveloper.pl/">website</a>:arrow_left:</h4>
-<h4>04.05.2024- For a month now, I have been creating connections in Node.js between React and the SQL server</h4>
+
 <details>
   <summary>ℹ About Me</summary>
 <p>I'm a polish student of IX High School. I'm learning Front-end since 2021, mainly React</p>
