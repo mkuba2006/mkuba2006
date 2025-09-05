@@ -2,7 +2,7 @@
 
 
 
-<p>I'm a polish student of IX High School. I'm learning Front-end technologies since 2021
+<p>I am a Polish student at the <b>Gdańsk University of Technology</b>, pursuing a degree in <b>Electronics and Telecommunications</b>. Since 2021, I have been developing my skills in front-end technologies, with a focus on modern frameworks and UI design</p>
 
 
 ## 🖥️ MY TECHNOLOGIES
